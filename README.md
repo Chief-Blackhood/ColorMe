@@ -18,8 +18,12 @@ cd frontend
 npm i
 npm start
 ```
+Frontend Preview:
+![Percomputed Examples](./Frontend%20Preview/Precomputed%20examples.jpg)
+![Upload an Image](./Frontend%20Preview/Upload%20image.jpg)
 
-Further information about the project can be found on the about page of the frontend.
+### About me:
+![About me](./Frontend%20Preview/About%20me.jpg)
 
 ## Contributors:
 1. Pratyush Pratap Priyadarshi
